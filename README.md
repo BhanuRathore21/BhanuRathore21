@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bhanu Rathore</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bhanurathore21&label=Profile%20views&color=0e75b6&style=flat" alt="bhanurathore21" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhanurathore21" alt="bhanurathore21" /></a> </p>
-
 - 🔭 I’m currently working on [AI Chatbot Helps of Gemini](https://github.com/BhanuRathore21/Gemini-Pro-Chatbot)
 
 - 🌱 I’m currently learning Django, NodeJS, Docker, AWS, Azure
