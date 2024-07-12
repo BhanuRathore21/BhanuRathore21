@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bhanu Rathore</h1>
-<h3 align="center">A Enthusiasm Software Engineer from India</h3>
+<h3 align="center">An Enthusiast Software Engineer from India</h3>
 
 - 🔭 I’m currently working on [AI Chatbot Helps of Gemini](https://github.com/BhanuRathore21/Gemini-Pro-Chatbot)
 
