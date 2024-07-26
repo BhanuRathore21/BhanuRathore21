@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on [Employee Portal(Django)](https://github.com/BhanuRathore21/django)
 
-- 🤝 I’m looking for help with [Employee Portal(Django)](https://github.com/BhanuRathore21/django)
+- 🤝 I’m looking for help with [Employee Portal(PHP-Laravel)](https://github.com/BhanuRathore21/employee-portal)
 
 - 👨‍💻 All of my projects are available at [https://github.com/BhanuRathore21](https://github.com/BhanuRathore21)
 
